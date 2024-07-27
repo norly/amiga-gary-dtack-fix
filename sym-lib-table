@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Amiga_Custom_Chips")(type "KiCad")(uri "${KIPRJMOD}/Amiga_Custom_Chips.kicad_sym")(options "")(descr ""))
+)
